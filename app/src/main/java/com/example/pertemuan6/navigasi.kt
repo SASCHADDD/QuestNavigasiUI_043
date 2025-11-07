@@ -21,7 +21,10 @@ fun DataApp(
             startDestination = Navigasi.Formulirku.name,
 
             modifier = Modifier
-                .padding(isiRuang)
-        )
+                .padding(isiRuang)){
+            composable(route = Navigasi.Formulirku.name)
+
+        }
+
     }
 }
