@@ -59,6 +59,6 @@ fun TampilData(
                     Text(text = stringResource(R.string.back))
                 }
             }
-            }
         }
     }
+}

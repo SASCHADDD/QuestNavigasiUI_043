@@ -96,6 +96,6 @@ fun Form(
                 ) {
                     Text(stringResource(R.string.submit))
                 }
-            }
+            })
       }
 }
