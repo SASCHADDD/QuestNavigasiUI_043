@@ -9,3 +9,8 @@ enum class Navigasi {
 }
 
 @Composable
+fun DataApp(
+    navController: navHostController = remembernavController()
+){
+
+}
